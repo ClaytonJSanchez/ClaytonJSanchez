@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaytonJSanchez
 - 👀 I’m interested in the environment, music, and minimalism
-- 🌱 I’m currently learning about cybersecurity and will be studying environmental enginerring in the near future.
+- 🌱 I’m currently learning about cybersecurity and will be studying environmental engineering in the near future.
 - 💞️ I’m looking to collaborate on taking care of the planet and improving online tech skills.
 - 📫 How to reach me
 Email:claytonjsanchez@gmail.com
